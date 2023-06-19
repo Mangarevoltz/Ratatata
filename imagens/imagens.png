@@ -1,1 +1,39 @@
-cat.png
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="utf-8" />
+  	<link rel="stylesheet" type="text/css" href="estilo.css">
+    <title>GeekPoint</title>
+</head>
+<body>
+    
+    <header>
+      <h1 align="center">GeekPoint</h1>
+      <p align ="center">Recomendações</p>
+    </header>
+    
+    <main>
+      <nav>
+        <ul>
+          <li><a href="../index.html"> Home </a></li>
+          <li><a href="./youtubelinks/index_youtube.html"> Games do ano </a></li>
+          <li><a href="#"> Estatísticas </a></li>
+        </ul>
+      </nav>
+
+      <nav>
+      	<p>
+         <img src="https://psxbrasil.com.br/wp-content/uploads/2018/10/playstation-dualshock.jpg" alt="Ps COntrols" width="600" height="300"><br>
+        </p>
+      </nav>
+       
+      <p> 
+      https://htmlpreview.github.io/?https://github.com/Mangarevoltz/Ratatata/blob/main/index.html <br>
+      </p>
+    </main>
+     
+    <footer>
+      Copyright © 2023 Mangarevoltz
+    </footer>
+</body>
+</html>

@@ -4,12 +4,12 @@
     font-family: Calibri;
     margin: 0;
     padding: 0;
-    background-color: #675d73;
+    background-color: #191919;
   }
 
   /* Add styles for the header */
   header {
-    background-color: #d98997;
+    background-color: #991123;
     padding: 0.2px;
     font-family: Book Antiqua;
     
@@ -22,6 +22,7 @@
     padding: 0.2px;
     display: flex;
     justify-content: center;
+    background-color: white
   
   }
 
@@ -32,21 +33,31 @@
   /* Add styles for the links in the navigation menu */
   nav a {
     text-decoration: underline;
-    color: purple;
+    color: black;
   }
 
   /* Add styles for the main content */
   main {
     padding: 0px;
     text-align: center;
+    background-color: #191919
   }
 
   /* Add styles for the footer */
   footer {
-    background-color: #d98997;
+    background-color: #991123;
     padding: 0.1px;
     text-align: center;
     font-family: Arial;
     font-size: 15px;
+  }
+  p {
+    color: #191919
+  }
+  h1{
+    color: #191919
+  }
+  footer{
+    color: #191919
   }
 </style>

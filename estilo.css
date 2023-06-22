@@ -22,7 +22,7 @@
     padding: 0.2px;
     display: flex;
     justify-content: center;
-    background-color: white
+    background-color: white;
   
   }
 
@@ -52,13 +52,13 @@
     font-size: 15px;
   }
   p {
-    color: white
-    text-aling: justify
+    color: white;
+    text-aling: justify;
   }
   h1{
-    color: white
+    color: white;
   }
   footer{
-    color: white
+    color: white;
   }
 </style>

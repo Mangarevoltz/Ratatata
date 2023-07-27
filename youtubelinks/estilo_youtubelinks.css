@@ -14,6 +14,10 @@
     font-family: Book Antiqua;
     
   }
+table,th,td{
+  border: 1px solid black;
+  text-align: center;
+}
 
   /* Add styles for the navigation menu */
   nav ul {

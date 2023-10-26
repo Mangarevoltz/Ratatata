@@ -33,13 +33,13 @@
   /* Add styles for the links in the navigation menu */
   nav a {
     text-decoration: underline;
-    color: black;
+    color: #991123;
   }
 
   /* Add styles for the main content */
   main {
     padding: 0px;
-    text-align: center;
+    text-align: justify;
     background-color: #191919
   }
 

@@ -40,7 +40,7 @@
   /* Add styles for the main content */
   main {
     padding: 0px;
-    text-align: justify;
+    text-align: center;
     background-color: #191919
   }
 
@@ -55,7 +55,7 @@
   p {
     color: white;
     text-aling: justify;
-    margin: 3 auto;
+    margin: 30 auto;
   }
   h1{
     color: white;
